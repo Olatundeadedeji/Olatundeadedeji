@@ -12,7 +12,7 @@ My work sits at the intersection of:
 - backend architecture and APIs
 - cloud-native delivery, observability, and platform reliability
 
-I build systems that move beyond prototypes — applications that teams can operate, maintain, and extend in real environments.
+I build systems that move beyond prototypes applications that teams can operate, maintain, and extend in real environments.
 
 ---
 
@@ -57,11 +57,11 @@ A real-time monitoring system for model health, fairness disparities, alerts, an
 
 ## Books
 
-### Full-Stack Flask and React
-A practical guide to building and deploying modern web applications with Flask, React, APIs, PostgreSQL, and container-based workflows.
+### [Full-Stack Flask and React](https://www.amazon.com/Full-Stack-Flask-React-powerful-applications-ebook/dp/B0C3VSMV71?ref_=ast_author_mpb)
+A practical guide to building and deploying modern full-stack web applications with Flask, React, APIs, PostgreSQL, and container-based workflows.
 
-### Full Stack Web Development with Django and Vue
-A hands-on guide to building and deploying professional full-stack systems with Django, Vue, REST APIs, PostgreSQL, Docker, and Kubernetes.
+### [Full Stack Web Development with Django and Vue](https://bpbonline.com/products/all?variant=44982594797768)
+A hands-on guide to building and deploying professional full-stack platforms with Django, Vue, REST APIs, PostgreSQL, Docker, and Kubernetes.
 
 ---
 
