@@ -48,7 +48,7 @@ A citation-backed enterprise RAG platform for trusted internal Q&A, confidence-a
 
 ### FairWatch
 **Responsible AI monitoring platform for healthcare**  
-A real-time monitoring system for model health, fairness disparities, alerts, and auditable incident workflows — designed for responsible AI operations.
+A real-time monitoring system for model health, fairness disparities, alerts, and auditable incident workflows designed for responsible AI operations.
 
 **Highlights:** React 19 · FastAPI · Recharts  
 [Repository](https://github.com/Olatundeadedeji/FairWatch)
