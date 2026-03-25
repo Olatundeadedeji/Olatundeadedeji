@@ -1,5 +1,5 @@
 # Hi, I’m Olatunde Adedeji 👋
-## AI Applications Architect & Full-Stack Engineering Leader
+## AI Solutions Architect & Full-Stack Engineering Leader
 
 ![](https://komarev.com/ghpvc/?username=olatundeadedeji&color=green)
 
